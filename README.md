@@ -25,6 +25,6 @@ No external libraries are required.
 ## ▶️ How to Run
 1. Clone the repository or copy the script:
    ```bash
-   git clone https://github.com/yourusername/simple-python-calculator.git
+   git clone https://github.com/rezvanp351/PythonCalculator.git
    cd simple-python-calculator
 
